@@ -7,6 +7,7 @@ public class TestClass {
         System.out.println("I want to have a second conflict");
         System.out.println("I dont't want a conflict");
         System.out.println("Second commit from remote master branch");
-        System.out.println("Third commit from remote master branch")
+        System.out.println("Third commit from remote master branch");
+        System.out.println("Review");
     }
 }
