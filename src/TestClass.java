@@ -13,6 +13,7 @@ public class TestClass {
 
         System.out.println("I want to have a second conflict");
         System.out.println("Branch review");
+        System.out.println("Branch review2");
 
 
     }
