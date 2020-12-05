@@ -14,6 +14,8 @@ public class TestClass {
         System.out.println("I want to have a second conflict");
         System.out.println("Branch review");
         System.out.println("Branch review2");
+        System.out.println("Branch review3");
+
 
 
     }
